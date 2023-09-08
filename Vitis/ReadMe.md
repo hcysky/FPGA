@@ -12,9 +12,9 @@
 - [ ] **5.PYNQ Labs:** Learn how to use PYNQ for easier user of Xilinx compute acceleration platforms.
 
 > **Presentations(YouTube & Slides)** Xilinx Platforms Introduction, Intro to Vitis for Acceleration Platforms, Vitis Tool Flow, and so on.
-- [ ] [Vitis Tool Flow](https://www.xilinx.com/support/documents/university/Vitis-Workshops/2019_2/vitis_toolflow.pdf
-- [ ] [Vitis Design Analysis](https://www.xilinx.com/support/documents/university/Vitis-Workshops/2019_2/vitis_design_analysis.pdf
-- [ ] [Vitis Design Methodology](https://www.xilinx.com/support/documents/university/Vitis-Workshops/2019_2/vitis_design_methodology.pdf
+- [ ] [Vitis Tool Flow](https://www.xilinx.com/support/documents/university/Vitis-Workshops/2019_2/vitis_toolflow.pdf)
+- [ ] [Vitis Design Analysis](https://www.xilinx.com/support/documents/university/Vitis-Workshops/2019_2/vitis_design_analysis.pdf)
+- [ ] [Vitis Design Methodology](https://www.xilinx.com/support/documents/university/Vitis-Workshops/2019_2/vitis_design_methodology.pdf)
 - [ ] [Host Code Optimization](https://www.xilinx.com/support/documents/university/Vitis-Workshops/2019_2/vitis_host_code_optimization.pdf)
 
 
