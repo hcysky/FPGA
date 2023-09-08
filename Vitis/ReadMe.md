@@ -16,6 +16,7 @@
 - [ ] [Vitis Design Analysis](https://www.xilinx.com/support/documents/university/Vitis-Workshops/2019_2/vitis_design_analysis.pdf)
 - [ ] [Vitis Design Methodology](https://www.xilinx.com/support/documents/university/Vitis-Workshops/2019_2/vitis_design_methodology.pdf)
 - [ ] [Host Code Optimization](https://www.xilinx.com/support/documents/university/Vitis-Workshops/2019_2/vitis_host_code_optimization.pdf)
+- [ ] [...](https://xilinx.github.io/xup_compute_acceleration/presentations.html)
 
 
 
