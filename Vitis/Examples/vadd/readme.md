@@ -35,7 +35,7 @@
 
 > It may take 1-2 hours to build a hardware binary (*.xclbin). You can also skip this step by using a prebuilt binary.
 
-> You can choose one of the following two methods.
+> You can choose one of the following two methods to run hardware.
 
 ### Build Full Hardware
 
@@ -45,12 +45,9 @@
 4. Select `vadd_system` in `Assistant` and click the hammer button to `**Build**`. (Generate a `binary_container_1.xclbin` and executable file `vadd` application in the new built vadd/Hardware directory.)
 5. Click on the `run button`, then select the `Launch Hardware` and click `OK` to `**Run**`
 
-
-
-
-
-
-
+### Use a prebuilt binary
+> Assume a prebuilt binary `binary_container_1.xclbin`
+> Copy the prebuilt solution files into current project. Please refer [HERE](https://xilinx.github.io/xup_compute_acceleration/Vitis_intro-2.html)
 
 
 
