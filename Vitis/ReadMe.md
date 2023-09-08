@@ -10,7 +10,7 @@
 - [ ] **4.Vision Lab:** Create a Vitis design using the `command line`. The design uses two kernels from the Vitis Accelerated Libraries, image resize and image resize & blur. You will run software emulation and test the kernels in hardware.
 - [ ] **5.PYNQ Labs:** Learn how to use PYNQ for easier user of Xilinx compute acceleration platforms.
 
-
+> **Presentations(YouTube & Slides):** Xilinx Platforms Introduction, Intro to Vitis for Acceleration Platforms, Vitis Tool Flow, and so on.
 
 
 
