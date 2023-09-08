@@ -6,7 +6,7 @@
 - [ ] Build the system and test it in hardware
 - [ ] Perform profile and application timeline analysis in hardware emulation
 
-# Step by Step
+# 🍁 Build & Run（Step by Step）
 
 ## 🌴 Create a Vitis Project
 > Key Steps:
@@ -49,6 +49,31 @@
 > Assume a prebuilt binary `binary_container_1.xclbin`
 > 
 > Copy the prebuilt solution files into current project. Please refer [HERE](https://xilinx.github.io/xup_compute_acceleration/Vitis_intro-2.html)
+
+
+# 🚔 Analyze Results（Step by Step）
+
+## 🚗 View Emulation Timeline
+
+> You can also replace `Emulation-SW` by `Emulation-HW ` or `Hardware`.
+
+1. Select `vadd_system -> vadd -> Emulation-SW -> SystemDebugger_vadd_system_vadd` in `Assistant`, then double-click the `Run Summary(xclbin)` to open `Vitis Analyzer`
+2. Vitis Analyzer shows `Summary, Run Guidance and Profile Summary` tabs on the left-hand side
+3. Select `Profile Summary`. Select `Kernels & Compute Units` to see kernel and compute units execution times (Notice the reported times); Click `Host Data Transfer` to see read and write buffer sizes, buffer addresses, and the related execution parameters.
+4. Select `File -> Exit` to close the Analyzer
+
+
+## 🚕 Timeline Trace
+
+> In order to `see` a Timeline Trace, you need to enable it in the `Run Configurations` settings.
+
+1. Right click on `vadd_system` in `Assistant`, and select `Run -> Run Configurations`
+2. Under the `Xilinx Runtime Profiling` section, click the Configuration `Edit…` button
+3. Select the `OpenCL trace` option, click `OK` to save the change and click `Run`
+4. Open the Vitis Analyzer by select `vadd_system -> vadd -> Emulation-SW -> SystemDebugger_vadd_system_vadd -> Run Summary(xclbin)`, and then select the `Timeline Trace`
+
+
+
 
 
 
