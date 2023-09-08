@@ -17,10 +17,24 @@
 ## Build and Run Software Emulation
 
 1. Select the `vadd_system` in `Explorer`
-2. `Emulation-SW` on the upper right corner of `System Project Settings`
-3. Select `vadd_system` in `Explorer` and click the hammer button to `Build`
+2. `**Emulation-SW**` on the upper right corner of `System Project Settings`
+3. Select `vadd_system` in `Explorer` and click the hammer button to `**Build**`
 4. Select `vadd_system` either in `Assistant` or in `Explorer`
-5. Click on the `run button`, then select the `Launch SW Emulator` and click `OK` to `Run`
+5. Click on the `run button`, then select the `Launch SW Emulator` and click `OK` to `**Run**`
+
+
+## 🍀 Build and Run Hardware Emulation
+
+1. Select the `vadd_system` in `Explorer`
+2. `**Emulation-HW**` on the upper right corner of `System Project Settings`
+3. Select `vadd_system` in `Explorer` and click the hammer button to `**Build**`
+4. Select `vadd_system` either in `Assistant` or in `Explorer`
+5. Click on the `run button`, then select the `Launch HW Emulator` and click `OK` to `**Run**`
+
+
+
+
+
 
 
 
