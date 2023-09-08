@@ -25,7 +25,18 @@
 - [ ] [...](https://xilinx.github.io/xup_compute_acceleration/presentations.html)
 
 
-# 2. Vitis Libraries
+# 2 Xilinx Documents
+
+## 2.1 Vitis Platform Doc
+
+[(UG1393) Vitis Unified Software Platform Documentation: Application Acceleration Development](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Getting-Started-with-Vitis)
+[(UG1393)Vitis 统一软件平台文档：应用加速开发](https://docs.xilinx.com/r/zh-CN/ug1393-vitis-application-acceleration/Vitis-%E5%85%A5%E9%97%A8)
+
+
+
+
+
+# 3. Vitis Libraries
 
 - [ ] [Vitis_Libraries](https://github.com/Xilinx/Vitis_Libraries)
 
