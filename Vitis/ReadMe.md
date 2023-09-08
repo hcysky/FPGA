@@ -20,5 +20,9 @@
 - [ ] [...](https://xilinx.github.io/xup_compute_acceleration/presentations.html)
 
 
+## Vitis Libraries
+
+- [ ] [Vitis_Libraries](https://github.com/Xilinx/Vitis_Libraries)
+
 
 
