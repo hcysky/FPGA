@@ -74,17 +74,17 @@
 
 
 
-# 🎈 Improving Performance
+# 🎈 [Improving Performance](https://xilinx.github.io/xup_compute_acceleration/Improving_Performance_lab.html)
 
 
 
-# 🎈 Optimization
+# 🎈 [Optimization](https://xilinx.github.io/xup_compute_acceleration/Optimization_lab.html)
 
 
-# 🎈 Vision Lab
+# 🎈 [Vision Lab](https://xilinx.github.io/xup_compute_acceleration/Vision_lab.html)
 
 
-# 🎈 Graph Lab
+# 🎈 [Graph Lab](https://xilinx.github.io/xup_compute_acceleration/Graph_lab.html)
 
 
 
