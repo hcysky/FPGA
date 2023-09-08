@@ -1,6 +1,11 @@
-# Vitis Examples
+# 1. Vitis Examples
 
-## Getting Started Tutorial with Vitis
+## 1.1 Vitis IDE
+
+- [ ] [Using the Vitis IDE](https://docs.xilinx.com/r/2021.1-English/ug1393-vitis-application-acceleration/Using-the-Vitis-IDE)
+
+
+## 1.2 Getting Started Tutorial with Vitis
 
 ### [Xilinx University Program Vitis Tutorial](https://xilinx.github.io/xup_compute_acceleration/)
 
@@ -20,7 +25,7 @@
 - [ ] [...](https://xilinx.github.io/xup_compute_acceleration/presentations.html)
 
 
-## Vitis Libraries
+# 2. Vitis Libraries
 
 - [ ] [Vitis_Libraries](https://github.com/Xilinx/Vitis_Libraries)
 
