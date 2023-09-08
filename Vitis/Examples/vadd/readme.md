@@ -8,17 +8,17 @@
 
 # Step by Step
 
-## Create a Vitis Project
+## 🌴 Create a Vitis Project
 > Key Steps:
 - [ ] Add `vadd.cpp`, `xcl2.cpp`, and `xcl2.hpp` into `vadd_system -> vadd -> Includes->src`
 - [ ] Add `krnl_vadd.cpp` into `vadd_system -> vadd_kernels -> src`
 - [ ] `Explorer view -> vadd_system -> vadd_kernels -> Hardware Kernel Project Settings -> Add Hardware Functions`
 
-## Build and Run Software Emulation
+## 🌳 Build and Run Software Emulation
 
 1. Select the `vadd_system` in `Explorer`
 2. `**Emulation-SW**` on the upper right corner of `System Project Settings`
-3. Select `vadd_system` in `Explorer` and click the hammer button to `**Build**`
+3. Select `vadd_system` in `Assistant` and click the hammer button to `**Build**`
 4. Select `vadd_system` either in `Assistant` or in `Explorer`
 5. Click on the `run button`, then select the `Launch SW Emulator` and click `OK` to `**Run**`
 
@@ -27,9 +27,23 @@
 
 1. Select the `vadd_system` in `Explorer`
 2. `**Emulation-HW**` on the upper right corner of `System Project Settings`
-3. Select `vadd_system` in `Explorer` and click the hammer button to `**Build**`
+3. Select `vadd_system` in `Assistant` and click the hammer button to `**Build**`
 4. Select `vadd_system` either in `Assistant` or in `Explorer`
 5. Click on the `run button`, then select the `Launch HW Emulator` and click `OK` to `**Run**`
+
+## 🌾 Run Hardware
+
+> It may take 1-2 hours to build a hardware binary (*.xclbin). You can also skip this step by using a prebuilt binary.
+
+> You can choose one of the following two methods.
+
+### Build Full Hardware
+
+1. Select the `vadd_system` in `Explorer`
+2. `**Hardware**` on the upper right corner of `System Project Settings`
+3. Select `vadd_system -> vadd_system_hw_link -> Hardware -> binary_container_1` in `Assistant` and then click on `Settings`; Click on the `Data Transfer` drop-down button in binary_container_1 row and select `Counters+Trace` option, and enable `Execute Profiling`.  Finally, click `Apply and Close`.
+4. Select `vadd_system` in `Assistant` and click the hammer button to `**Build**`. (Generate a `binary_container_1.xclbin` and executable file `vadd` application in the new built vadd/Hardware directory.)
+5. Click on the `run button`, then select the `Launch Hardware` and click `OK` to `**Run**`
 
 
 
