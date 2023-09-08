@@ -1,2 +1,2 @@
 # FPGA
-Vitis examples for beginners
+How to utilize Vitis and Vivado for beginners
