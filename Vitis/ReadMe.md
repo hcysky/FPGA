@@ -41,5 +41,10 @@
 - [ ] [Vitis_Libraries](https://github.com/Xilinx/Vitis_Libraries)
 
 
+# Vitis_Accel_Examples
+
+- [ ] [Vitis Accel Examples' Repository](https://github.com/Xilinx/Vitis_Accel_Examples/tree/master)
+
+
 
 
