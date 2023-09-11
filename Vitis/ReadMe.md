@@ -13,7 +13,7 @@
 - [ ] **1.Introduction to Vitis:** How to use the `Vitis GUI` to create a new project using a simple vector addition example, including `Emulation_SW`, `Emulation_HW` and `Hardware`.
 - [ ] **2.Improving Performance:** How bandwidth can be improved, and thus system performance, by using wider data path and transferring data in parallel using multiple memory banks.
 - [ ] **3.Optimization:** Analyze various generated reports and then apply optimization techniques, such as `DATAFLOW` on the host program and `PIPELINING` on kernel side to improve throughput and data transfer rate.
-- [ ] **4.Vision Lab:** Create a Vitis design using the `command line`. The design uses two kernels from the Vitis Accelerated Libraries, image resize and image resize & blur. You will run software emulation and test the kernels in hardware.
+      **4.Vision Lab:** Create a Vitis design using the `command line`. The design uses two kernels from the Vitis Accelerated Libraries, image resize and image resize & blur. You will run software emulation and test the kernels in hardware.
 - [ ] **5.PYNQ Labs:** Learn how to use PYNQ for easier user of Xilinx compute acceleration platforms.
 
 > **Presentations(YouTube & Slides)** Xilinx Platforms Introduction, Intro to Vitis for Acceleration Platforms, Vitis Tool Flow, and so on.
@@ -44,7 +44,7 @@
 # 4. Vitis_Accel_Examples
 
 - [ ] [Vitis Accel Examples' Repository](https://github.com/Xilinx/Vitis_Accel_Examples/tree/master)
-
+  - [ ] [Hello World](https://xilinx.github.io/Vitis_Accel_Examples/2023.1/html/hello_world.html)
 
 
 
