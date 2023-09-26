@@ -9,6 +9,8 @@
 
 ### [Xilinx University Program Vitis Tutorial](https://xilinx.github.io/xup_compute_acceleration/)
 
+- [ ] Examples: [xup_compute_acceleration](https://github.com/Xilinx/xup_compute_acceleration)
+
 > **Hands-on Labs**
 - [ ] **1.Introduction to Vitis:** How to use the `Vitis GUI` to create a new project using a simple vector addition example, including `Emulation_SW`, `Emulation_HW` and `Hardware`.
 - [ ] **2.Improving Performance:** How bandwidth can be improved, and thus system performance, by using wider data path and transferring data in parallel using multiple memory banks.
