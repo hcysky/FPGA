@@ -27,14 +27,17 @@
 - [ ] [...](https://xilinx.github.io/xup_compute_acceleration/presentations.html)
 
 
-# 2 Xilinx Documents
+# 2 Documents
 
-## 2.1 Vitis Platform Doc
+## 2.1 Xilinx Vitis Platform Doc
 
 [(UG1393) Vitis Unified Software Platform Documentation: Application Acceleration Development](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Getting-Started-with-Vitis)
 [(UG1393)Vitis 统一软件平台文档：应用加速开发](https://docs.xilinx.com/r/zh-CN/ug1393-vitis-application-acceleration/Vitis-%E5%85%A5%E9%97%A8)
 
 
+## 2.2 High-Level Digital Design Automation
+
+[ECE 6775 Lecture slides Fall 2023](https://www.csl.cornell.edu/courses/ece6775/)
 
 
 
