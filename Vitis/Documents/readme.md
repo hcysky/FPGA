@@ -80,7 +80,28 @@
 ![image](https://github.com/hcysky/FPGA/assets/64795241/eb44b4c6-fe72-4a95-ad7d-f124e16fbabe)
 
 
-> lecture05-Analysis of Algorithms
+> lecture07-Control Flow Graph
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/3af7270c-4d7e-4d56-b615-4cb4ecc51074)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/4a247600-324a-48b3-b3cb-b3d6aa8854e8)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/47681193-788f-43cf-9b1e-567d9d70c06f)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/1aa3f8bd-c91f-4547-9378-53b24b7fe269)
+
+
+> lecture09-Scheduling
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/2e63c680-430b-4e2b-8bd9-5dc722724eac)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/530fa132-564a-41d2-96ce-fed2da1b50cf)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/b711d4a8-7284-4e4a-aa48-09d221786b97)
+
+
+
+
 
 
 
