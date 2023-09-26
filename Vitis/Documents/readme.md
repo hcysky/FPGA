@@ -54,13 +54,33 @@
 
 ![image](https://github.com/hcysky/FPGA/assets/64795241/d14d2cfd-73ac-4560-9b73-bb01e8b62d68)
 
+
+
 > lecture04-Field-Programmable Gate Arrays (FPGAs)
+ - [ ] LUT(Look Up Table)，也即查找表，用于实现组合逻辑。根据输入去查找对应位置的信号，然后输出。类似于小容量的ROM，将输入当作地址信号，然后对LUT里面预存的内容进行寻址。FF(Flip-flop)，也即触发器，用于实现时序逻辑。
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/8923f568-4f2d-49c8-bc44-0d80850db3d3)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/76419109-e912-41a1-a969-d83b42381311)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/dfade77f-2512-41c3-bafb-d427652bf9f4)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/1b158d38-1924-460c-851e-5e00b5a44c0c)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/7c8e30ab-887c-44da-bbc3-9f119f641d38)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/7ead6895-2de9-4c08-bc2e-6844fe6df5cf)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/959f6eae-b98a-4140-9bd1-29a094a35f35)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/6b0691b5-a55a-4c00-9a18-229ebfc6c776)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/2543231d-53a3-4d19-b784-428f5ec3c94e)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/eb44b4c6-fe72-4a95-ad7d-f124e16fbabe)
 
 
-
-
-
-
+> lecture05-Analysis of Algorithms
 
 
 
