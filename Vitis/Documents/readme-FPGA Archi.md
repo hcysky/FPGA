@@ -29,7 +29,7 @@ The FF is the basic memory element for the FPGA. They are typically co-located w
 
 # References
 
-- [ ] Ryan Kastner, Janarbek Matai, and Stephen Neuendorffer, Parallel Programming for FPGAs, arXiv, 2018.
+- [ ] [Ryan Kastner, Janarbek Matai, and Stephen Neuendorffer, Parallel Programming for FPGAs, arXiv, 2018.](./Documents/Parallel Programming for FPGAs.pdf)
 
 
 
