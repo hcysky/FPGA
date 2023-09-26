@@ -39,8 +39,17 @@ A block RAM (BRAM) is another example of a hardened resource. BRAMs are configur
 
 
 
+--------------
 
+![image](https://github.com/hcysky/FPGA/assets/64795241/1b81abc1-c1f1-46e8-8181-68661483960a)
 
+![image](https://github.com/hcysky/FPGA/assets/64795241/178ab2df-7da7-4cc0-b798-353297f714ad)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/6d20f5e9-ed1b-4239-95dc-665ecc0ae822)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/3f68ebbf-c3ab-4004-9283-e20bb3e91ee4)
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/05fce0fe-012d-4859-b28d-683e27dcf470)
 
 
 
