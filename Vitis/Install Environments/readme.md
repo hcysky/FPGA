@@ -46,6 +46,17 @@ $ cd xilinx-u50-gen3x16-xdma_2022.1_2022_0415_2123-all
 $ sudo apt install ./*.deb
 ```
 
+
+- [ ] Generate "xilinx_u50_gen3x16_xdma_5_202210_1.xpfm" at "/opt/xilinx/platforms/xilinx_u50_gen3x16_xdma_5_202210_1"
+
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/1087eaa0-142a-46ea-a556-1be642842ad0)
+
+```bash
+$ sudo apt install ./xilinx-u50-gen3x16-xdma-5-202210-1-dev_1-3499627_all.deb
+```
+
+
 ---------------
 > Step 4 – Download and Install the Required Platform files
 
