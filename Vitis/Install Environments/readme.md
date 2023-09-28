@@ -1,4 +1,5 @@
 
+> Ubuntu 20.06, Vitis 2022.1, Alveo U50
 
 # Vitis 2022.1
 
@@ -17,15 +18,35 @@ Download the latest version of the Vitis from the [Xilinx download website](http
 
 ![image](https://github.com/hcysky/FPGA/assets/64795241/3123b55b-fb55-4f74-9aba-49d5384862aa)
 
+-----------
 > Step 3 – Install Downloaded Packages
 
 After downloading the Vitis, XRT and platform packages, install them in the following order and according to the provided instructions:
 
 1.[Install the Vitis Software Platform](https://docs.xilinx.com/r/2022.1-English/ug1393-vitis-application-acceleration/Installing-the-Vitis-Software-Platform)
+
 2.[Install the Xilinx Runtime and Platforms](https://docs.xilinx.com/r/2022.1-English/ug1393-vitis-application-acceleration/Installing-the-Vitis-Software-Platform)
 
 ![image](https://github.com/hcysky/FPGA/assets/64795241/e299d3f8-4a17-4a65-b5e7-5c24ce499c85)
 
+> Install XRT
+
+![image](https://github.com/hcysky/FPGA/assets/64795241/562a92d5-4af2-471d-973b-ec5cbf4a0068)
+
+```bash
+$ sudo apt install ./xrt_202210.2.13.466_20.04-amd64-xrt.deb
+```
+
+> Install Paltforms
+![image](https://github.com/hcysky/FPGA/assets/64795241/42fd2ccd-1bdb-4e1b-a5c6-2cf5f829d399)
+
+```bash
+$ tar -zxvf xilinx-u50-gen3x16-xdma_2022.1_2022_0415_2123-all.deb.tar.gz
+$ cd xilinx-u50-gen3x16-xdma_2022.1_2022_0415_2123-all
+$ sudo apt install ./*.deb
+```
+
+---------------
 > Step 4 – Download and Install the Required Platform files
 
 > Step 4A - Installing Data Center Platform Files
