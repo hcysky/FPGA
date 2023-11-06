@@ -27,6 +27,12 @@
 - [ ] [...](https://xilinx.github.io/xup_compute_acceleration/presentations.html)
 
 
+## 1.3 [Vitis-HLS-Introductory-Examples](https://github.com/Xilinx/Vitis-HLS-Introductory-Examples/tree/master)
+
+
+
+
+
 # 2 Documents
 
 ## 2.1 Xilinx Vitis Platform Doc
